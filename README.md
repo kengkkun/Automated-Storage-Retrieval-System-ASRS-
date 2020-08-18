@@ -1,6 +1,6 @@
 # Automated Storage-Retrieval System ASRS
 
-##This is my senior project, if you want to use this code please credit to me.
+This is my senior project, if you want to use this code please credit to me.
 
 ## Abstract
   Currently, the inventory management system of company has been applied the
