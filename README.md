@@ -2,6 +2,8 @@
 
 This is my senior project, if you want to use this code please credit to me.
 
+W. Kharamat, J. Thummala, and N. Wattanamongkhol, "Development Model of Automated Storage and Retrieval System with PID Controller", 10th ECTI-CARD 2018 proceeding, Phitsanulok Thailand, pp.155-158
+
 ## Abstract
   Currently, the inventory management system of company has been applied the
 automatic control system to reduce worker costs, safety, and increase logistics efficiency. The
