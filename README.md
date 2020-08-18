@@ -15,6 +15,7 @@ failures until the robot stopped working, the robots can remember the latest pos
 resume from the current position immediately. From the experiment results when compared
 with the non-PID control systems, the maximum percent overshoot is reduced about 15% and
 the operation time (setting time) of robots is reduced about 0.2 seconds.
+
 Keywords : Microcontroller, robot, automated control system, LabVIEW program, PID controller
 
 ## บทคัดย่อ
