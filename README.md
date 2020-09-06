@@ -2,6 +2,8 @@
 
 This is my senior project, if you want to use this code please credit to me.
 
+Example video for using program https://youtu.be/S4swJnWwF-s
+
 W. Kharamat, J. Thummala, and N. Wattanamongkhol, "Development Model of Automated Storage and Retrieval System with PID Controller", 10th ECTI-CARD 2018 proceeding, Phitsanulok Thailand, pp.155-158
 
 ## Abstract
